@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "https://oplist.848853.xyz:9412"}
+      {"src": "/(.*)","dest": "http://hk-build.848853.xyz:8080/"}
     ]
 }
