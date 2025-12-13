@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "http://hk-build.848853.xyz:8080/"}
+      {"src": "/(.*)","dest": "http://hk-build.848853.xyz:8080"}
     ]
 }
